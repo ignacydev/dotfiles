@@ -10,6 +10,10 @@ home.packages = with pkgs; [
 	chromium
 	alacritty
 	htop
+	gcc
+	vscodium
+	jmtpfs
+	unzip
   ];
 
 
